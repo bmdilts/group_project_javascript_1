@@ -50,6 +50,7 @@ function greaterThan (p1,p2){
   }
 }
 // Function 8
+function greet(x) {return ("Hello " + x + "!");}
 
 // Function 9
 function madlib (noun, verb, adjective, noun2, adverb){
